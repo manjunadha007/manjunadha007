@@ -1,5 +1,4 @@
 - 👋 Hi there, I’m Manjunadha Reddy
-- Currently I'm pursuing B.Tech 4th year at G Pullareddy Engineering College, Kurnool.
 - 👀 I’m interested in web development.
 
 <!---
